@@ -1,0 +1,27 @@
+G:\31 Term\Database\project\HallManagementSystem\HallManagementSystem\bin\Debug\HallManagementSystem.exe.config
+G:\31 Term\Database\project\HallManagementSystem\HallManagementSystem\bin\Debug\HallManagementSystem.exe
+G:\31 Term\Database\project\HallManagementSystem\HallManagementSystem\bin\Debug\HallManagementSystem.pdb
+G:\31 Term\Database\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.csprojResolveAssemblyReference.cache
+G:\31 Term\Database\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.Form1.resources
+G:\31 Term\Database\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.Properties.Resources.resources
+G:\31 Term\Database\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.csproj.GenerateResource.Cache
+G:\31 Term\Database\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.exe
+G:\31 Term\Database\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.pdb
+G:\31 Term\Database\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.Home.resources
+G:\31 Term\Database\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.Student.resources
+D:\Library\3rd year 1st term\Database System\project\project\HallManagementSystem\HallManagementSystem\bin\Debug\HallManagementSystem.exe.config
+D:\Library\3rd year 1st term\Database System\project\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.exe
+D:\Library\3rd year 1st term\Database System\project\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.pdb
+D:\Library\3rd year 1st term\Database System\project\project\HallManagementSystem\HallManagementSystem\bin\Debug\HallManagementSystem.exe
+D:\Library\3rd year 1st term\Database System\project\project\HallManagementSystem\HallManagementSystem\bin\Debug\HallManagementSystem.pdb
+D:\Library\3rd year 1st term\Database System\project\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.csprojResolveAssemblyReference.cache
+D:\Library\3rd year 1st term\Database System\project\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.Home.resources
+D:\Library\3rd year 1st term\Database System\project\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.Properties.Resources.resources
+D:\Library\3rd year 1st term\Database System\project\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.Student.resources
+D:\Library\3rd year 1st term\Database System\project\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.csproj.GenerateResource.Cache
+D:\Library\3rd year 1st term\Database System\project\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.Room.resources
+D:\Library\3rd year 1st term\Database System\project\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.Department.resources
+D:\Library\3rd year 1st term\Database System\project\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.Add_Management.resources
+D:\Library\3rd year 1st term\Database System\project\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.About.resources
+D:\Library\3rd year 1st term\Database System\project\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.Help.resources
+D:\Library\3rd year 1st term\Database System\project\project\HallManagementSystem\HallManagementSystem\obj\Debug\HallManagementSystem.signIn.resources
